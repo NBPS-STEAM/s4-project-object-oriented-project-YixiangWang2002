@@ -32,11 +32,11 @@ Part 1 will not be considered complete until all these steps are completed.
 
 ### Part 2
 As you begin coding, ensure that your project contains all the following criteria:
-- [ ] One main class (App) from which the program executes,
-- [ ] Two or more other classes,
-- [ ] Constructors with overloading,
-- [ ] Appropriate accessor & mutator methods,
-- [ ] Static variables & methods
+- [X] One main class (App) from which the program executes,
+- [X] Two or more other classes,
+- [X] Constructors with overloading,
+- [X] Appropriate accessor & mutator methods,
+- [X] Static variables & methods
 
 As you work on your project, be sure to...
 - [ ] Regularly commit your code, i.e. at the end of every coding session,
