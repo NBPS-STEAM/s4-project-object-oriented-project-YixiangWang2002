@@ -16,3 +16,5 @@ When making a citation, include the resource title, URL, and date of access. Use
 
 [Java If ... Else](https://www.w3schools.com/java/java_conditions.asp)
 Date accessed: Jan 20, 2021
+[IDEA IntelliJ Plugin](https://plugins.jetbrains.com/plugin/15124-uml-generator)
+Date accessed: Feb 3, 2021
