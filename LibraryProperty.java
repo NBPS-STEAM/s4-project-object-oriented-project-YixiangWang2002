@@ -1,5 +1,4 @@
 /**
- *
  * Abstract class LibraryProperty
  * Define the generic properties
  */

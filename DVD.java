@@ -1,10 +1,16 @@
 import java.util.UUID;
 
+/**
+ * Library Property - DVD
+ */
 public class DVD extends LibraryProperty
 {
     private String title;
     private String producer;
 
+    /**
+     * Default Constructor
+     */
     public DVD() {
         this.title = null;
         this.producer = null;
@@ -12,6 +18,12 @@ public class DVD extends LibraryProperty
         this.setLibraryPropertyType(PropertyType.DVD);
     }
 
+    /**
+     * Constructor with id as input
+     * @param id
+     * @param title
+     * @param producer
+     */
     public DVD(String id, String title, String producer) {
         this.title = title;
         this.producer = producer;
@@ -19,6 +31,11 @@ public class DVD extends LibraryProperty
         this.setLibraryPropertyType(PropertyType.DVD);
     }
 
+    /**
+     * Constructor without id as input
+     * @param title
+     * @param producer
+     */
     public DVD(String title, String producer) {
         this.title = title;
         this.producer = producer;
@@ -26,12 +43,36 @@ public class DVD extends LibraryProperty
         this.setLibraryPropertyType(PropertyType.DVD);
     }
 
+    /**
+     * Getter for title
+     * @return
+     */
     public String getTitle() {
-        return title;
+        return this.title;
     }
 
+    /**
+     * Getter for producer
+     * @return
+     */
     public String getProducer() {
-        return producer;
+        return this.producer;
+    }
+
+    /**
+     * Setter for title
+     * @param title
+     */
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    /**
+     * Setter for producer
+     * @param producer
+     */
+    public void setProducer(String producer) {
+        this.producer = producer;
     }
 
     @Override

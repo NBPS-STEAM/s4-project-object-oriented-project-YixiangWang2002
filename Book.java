@@ -1,5 +1,8 @@
 import java.util.UUID;
 
+/**
+ * Library Property - Book
+ */
 public class Book extends LibraryProperty {
     private String title;
     private String author;
