@@ -47,8 +47,9 @@ Refer to the grading rubric as you go to ensure you're doing the assignment corr
 
 ### Part 3
 Once you've completed your assignment, record a short video (~5 minutes) that includes the following:
-- [ ] a quick demonstration that your codes works,
-- [ ] the GitHub project repository with all commits,
-- [ ] explanation of how your code uses encapsulation
+- [X] a quick demonstration that your codes works,
+- [X] the GitHub project repository with all commits,
+- [X] explanation of how your code uses encapsulation
 
 Add the link to your video here:
+https://github.com/NBPS-STEAM/s4-project-object-oriented-project-YixiangWang2002/raw/master/Yixiang.wang%20-%20s4%20-project.mp4
